@@ -1,22 +1,36 @@
-<img src="https://www.meowboxx.workers.dev/banner.png" width="100%" alt="Lakshay Verma — Full-stack & Android Developer">
+<div align="center">
 
-# Lakshay Verma
+<img src="https://raw.githubusercontent.com/BhagattJii/BhagattJii/main/header.svg" width="100%" alt="Lakshay Verma - Full-stack and Android Developer">
 
-**Full-stack & Android developer.** I build privacy-first, self-hostable tools — no ads, no accounts, no server-side lock-in.
+<br>
+
+<a href="https://github.com/BhagattJii"><img src="https://img.shields.io/badge/GitHub-BhagattJii-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.instagram.com/i_bhagat.jii/"><img src="https://img.shields.io/badge/Instagram-%40i_bhagat.jii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:meowboxteam@gmail.com"><img src="https://img.shields.io/badge/Email-meowboxteam%40gmail.com-3DDC84?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://meowbox.dpdns.org"><img src="https://img.shields.io/badge/Website-meowbox.dpdns.org-4c9aff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website"></a>
+
+<br><br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BhagattJii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank=1)](https://github.com/BhagattJii)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagattJii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/BhagattJii)
+
+</div>
 
 ---
 
 ## About
 
-- **Name:** Lakshay Verma — building and shipping products as [@BhagattJii](https://github.com/BhagattJii)
-- **Role:** Full-stack (web) + Android engineer
-- **Focus:** privacy-first software, AI tooling, on-device/offline experiences, zero-cost self-hosting
-- **From:** India · Open to remote work, freelance projects, and OSS collaboration
+| | |
+|---|---|
+| **Name** | Lakshay Verma |
+| **Handle** | [@BhagattJii](https://github.com/BhagattJii) |
+| **Role** | Full-stack (web) + Android engineer |
+| **Focus** | Privacy-first software, AI tooling, offline/on-device experiences, zero-cost self-hosting |
+| **Location** | India |
+| **Status** | Open to remote work, freelance projects and OSS collaboration |
+| **Contact** | [meowboxteam@gmail.com](mailto:meowboxteam@gmail.com) · [Instagram](https://www.instagram.com/i_bhagat.jii/) |
 
-I care about software that doesn't ask for your trust blindly: keys that never leave your device, data stored in *your* cloud, and features that keep working without a subscription.
+I build software that doesn't ask for your trust blindly: keys that never leave your device, data stored in *your* cloud, and features that keep working without a subscription.
 
 ## Featured work
 
@@ -30,11 +44,11 @@ I care about software that doesn't ask for your trust blindly: keys that never l
 
 <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,vercel,kotlin,androidstudio,gradle,clerk,google,git,githubactions,linux" alt="Tech stack" />
 
-**Languages** — TypeScript, JavaScript, CSS, Kotlin, YAML (CI), Gradle (Kotlin DSL)
-**Frontend** — Next.js (App Router), React, Tailwind CSS, shadcn/ui, Radix UI
-**Backend & infra** — Cloudflare Workers, REST APIs, GitHub Actions CI, Google Drive API, Clerk
-**Android** — Jetpack Compose, Material 3, Kotlin Coroutines, Nearby Connections, MediaStore
-**AI** — Vercel AI SDK, OpenAI, Anthropic, Google Gemini, OpenRouter
+- **Languages** — TypeScript, JavaScript, CSS, Kotlin, YAML (CI), Gradle (Kotlin DSL)
+- **Frontend** — Next.js (App Router), React, Tailwind CSS, shadcn/ui, Radix UI
+- **Backend & infra** — Cloudflare Workers, REST APIs, GitHub Actions CI, Google Drive API, Clerk
+- **Android** — Jetpack Compose, Material 3, Kotlin Coroutines, Nearby Connections, MediaStore
+- **AI** — Vercel AI SDK, OpenAI, Anthropic, Google Gemini, OpenRouter
 
 ## Currently
 
@@ -46,11 +60,12 @@ I care about software that doesn't ask for your trust blindly: keys that never l
 
 All three projects above are open source and MIT/Apache-2.0 licensed. Issues, bug reports and pull requests are welcome — check each repo's README for setup details and limitations.
 
-## Contact
+## Let's connect
 
-- Email: [meowboxteam@gmail.com](mailto:meowboxteam@gmail.com)
-- Website: [meowbox.dpdns.org](https://meowbox.dpdns.org)
-- GitHub: [@BhagattJii](https://github.com/BhagattJii)
+- **GitHub** — [@BhagattJii](https://github.com/BhagattJii)
+- **Instagram** — [@i_bhagat.jii](https://www.instagram.com/i_bhagat.jii/)
+- **Email** — [meowboxteam@gmail.com](mailto:meowboxteam@gmail.com)
+- **Website** — [meowbox.dpdns.org](https://meowbox.dpdns.org)
 
 ---
 
