@@ -1,29 +1,17 @@
-<div align="center">
+# Hi, I'm Lakshay
 
-<img src="https://raw.githubusercontent.com/BhagattJii/BhagattJii/main/header.svg" width="100%" alt="Lakshay Verma">
+I make Android apps and websites. Small tools that don't need an account and don't spam you with ads.
 
-</div>
+Three things live here right now:
 
-Hey, I'm Lakshay. I build Android apps and web apps — mostly small ones that work without an account or a subscription.
+1. **iDrop** ([repo](https://github.com/BhagattJii/Idrop), [APKs](https://github.com/BhagattJii/Idrop/releases/latest)) - an Android app for sending files between two phones. Put the phones near each other, a popup shows up, tap connect, files move over a direct encrypted link and land in Downloads. No account and no server anywhere in between.
 
-Most of my time goes into Kotlin and TypeScript. I like AI tooling too, but I'm more into keeping things self-hosted than putting another dashboard around someone else's API.
+2. **BJ Studio** ([repo](https://github.com/BhagattJii/BJ-Studio), [try it](https://bjstudioai.vercel.app)) - an AI chat app that runs in the browser. You put in your own OpenAI, Gemini or OpenRouter key, chats save to your own Google Drive and the vault is encrypted with a passphrase that never leaves your device.
 
-Right now I'm working on **iDrop** and adding a GitHub/Gist backup to **BJ Studio**.
+3. **MeowBox** ([site](https://meowbox.dpdns.org), [repo](https://github.com/BhagattJii/meowbox)) - free file hosting with direct links up to 25 MB. Every upload gets scanned for malware before it is stored or served.
 
-## Things I've built
+I write Kotlin on the Android side and TypeScript with Next.js for the web. Most of my web builds actually run on Termux, on my own phone.
 
-**[iDrop](https://github.com/BhagattJii/Idrop)** — Android app for sending files between two phones. Bring them close, tap connect, and the file moves over a local encrypted link. No accounts, no server, no ads. Signed APKs are on the [releases page](https://github.com/BhagattJii/Idrop/releases/latest).
+Working on right now: a GitHub backup for BJ Studio chats, and making iDrop better at finding phones that are close by.
 
-**[BJ Studio](https://github.com/BhagattJii/BJ-Studio)** — AI chat app that runs entirely in the browser. You use your own API key, chats sit in your own Google Drive, and the vault is encrypted with a passphrase that never leaves the device. Try it at [bjstudioai.vercel.app](https://bjstudioai.vercel.app).
-
-**[MeowBox](https://github.com/BhagattJii/meowbox)** — Free file hosting with direct links you can hotlink anywhere. The backend runs on Cloudflare Workers and every upload gets malware-scanned. [meowbox.dpdns.org](https://meowbox.dpdns.org)
-
-## Stack
-
-Kotlin · Jetpack Compose · Android · Gradle · TypeScript · Next.js · React · Tailwind CSS · Cloudflare Workers · GitHub Actions
-
-## Find me here
-
-- GitHub — [@BhagattJii](https://github.com/BhagattJii)
-- Instagram — [@i.lakshyy](https://www.instagram.com/i.lakshyy/)
-- Email — [meowboxteam@gmail.com](mailto:meowboxteam@gmail.com)
+Say hi: Instagram [@i.lakshyy](https://www.instagram.com/i.lakshyy) (usually faster than email), ya mail [meowboxteam@gmail.com](mailto:meowboxteam@gmail.com)
