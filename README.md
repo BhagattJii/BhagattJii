@@ -14,4 +14,4 @@ I write Kotlin on the Android side and TypeScript with Next.js for the web. Most
 
 Working on right now: a GitHub backup for BJ Studio chats, and making iDrop better at finding phones that are close by.
 
-Say hi: Instagram [@i.lakshyy](https://www.instagram.com/i.lakshyy) (usually faster than email), ya mail [meowboxteam@gmail.com](mailto:meowboxteam@gmail.com)
+Say hi: Instagram [@i.lakshyy](https://www.instagram.com/i.lakshyy) (usually faster than email), or mail [meowboxteam@gmail.com](mailto:meowboxteam@gmail.com)
