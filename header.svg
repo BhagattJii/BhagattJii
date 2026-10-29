@@ -28,20 +28,20 @@
 
     <text x="72" y="180" fill="#58a6ff" font-size="27" font-weight="600" letter-spacing="0.4">Full-stack &amp; Android Developer</text>
 
-    <text x="72" y="220" fill="#8b949e" font-size="19">Privacy-first, self-hostable software — no ads, no accounts, no lock-in</text>
+    <text x="72" y="220" fill="#8b949e" font-size="19">I make small apps that don't need an account or a subscription</text>
 
     <g font-size="15" font-weight="600">
-      <rect x="72" y="242" width="118" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="131" y="263" fill="#c9d1d9" text-anchor="middle">Next.js</text>
+      <rect x="72" y="242" width="92" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+      <text x="118" y="263" fill="#c9d1d9" text-anchor="middle">Kotlin</text>
 
-      <rect x="200" y="242" width="86" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="243" y="263" fill="#c9d1d9" text-anchor="middle">TypeScript</text>
+      <rect x="174" y="242" width="98" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+      <text x="223" y="263" fill="#c9d1d9" text-anchor="middle">Next.js</text>
 
-      <rect x="296" y="242" width="86" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="339" y="263" fill="#c9d1d9" text-anchor="middle">Kotlin</text>
+      <rect x="282" y="242" width="106" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+      <text x="335" y="263" fill="#c9d1d9" text-anchor="middle">TypeScript</text>
 
-      <rect x="392" y="242" width="62" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="423" y="263" fill="#c9d1d9" text-anchor="middle">AI</text>
+      <rect x="398" y="242" width="104" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+      <text x="450" y="263" fill="#c9d1d9" text-anchor="middle">Android</text>
     </g>
 
     <g>
