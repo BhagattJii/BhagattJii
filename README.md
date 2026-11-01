@@ -1,4 +1,4 @@
-# Hi, I'm Lakshay
+# Hi, I'm Lakshay Verma
 
 I make Android apps and websites. Small tools that don't need an account and don't spam you with ads.
 
