@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="280" viewBox="0 0 1400 280" role="img" aria-label="bhagat jii — Full-stack Engineer">
+  <defs>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="100%" stop-color="#94a3b8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="280" fill="#0f172a"/>
+
+  <g font-family="ui-sans-serif, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="700" y="135" text-anchor="middle" fill="url(#textGrad)" font-size="64" font-weight="700" letter-spacing="2" filter="url(#glow)">bhagat jii</text>
+    <text x="700" y="188" text-anchor="middle" fill="#64748b" font-size="20" font-weight="400" letter-spacing="6">FULL-STACK ENGINEER</text>
+
+    <g transform="translate(700, 225)">
+      <rect x="-60" y="-2" width="120" height="4" rx="2" fill="url(#accentGrad)"/>
+    </g>
+
+    <g font-size="14" fill="#475569" text-anchor="middle">
+      <text x="-180" y="258">TypeScript · Next.js</text>
+      <text x="0" y="258">Cloudflare Workers</text>
+      <text x="180" y="258">Kotlin</text>
+    </g>
+  </g>
+</svg>
