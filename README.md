@@ -12,60 +12,30 @@
 <br><br>
 
 **Full-stack engineer** · Building **MeowBox** (file hosting) & **hawkin** (AI search).  
-TypeScript, Next.js, Cloudflare Workers, Kotlin.
+TypeScript, Next.js, Kotlin.
 
 </div>
 
 ---
 
-## 🛠 Featured Projects
+## Projects
 
 ### [MeowBox](https://github.com/BhagattJii/meowbox) — Free file hosting with direct links
-[![Live](https://img.shields.io/badge/Live-meowbox.dpdns.org-4c9aff?style=flat-square&logo=cloudflare)](https://meowbox.dpdns.org)
+[![Live](https://img.shields.io/badge/Live-meowbox.dpdns.org-4c9aff?style=flat-square)](https://meowbox.dpdns.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Free, ad-free file hosting with **hotlinkable direct links** (up to 25 MB). Built on **Cloudflare Workers** with D1 + R2/KV storage. Every upload is malware-scanned before storage. Includes a public REST API for automation.
-
-| Feature | Detail |
-|---------|--------|
-| Max file size | 25 MB |
-| Storage | Cloudflare R2 / KV |
-| API | REST (`/user/api.php`) |
-| Malware scan | Every upload |
-
-**Stack:** TypeScript · Cloudflare Workers · D1 · R2 · KV · Wrangler
+Free, ad-free file hosting. Upload a file (up to 25 MB), get a direct link that works anywhere — Discord, forums, blogs, chats, `<img>` tags, `<video>` embeds. No account required. Links are permanent unless you set an expiry. Every upload is malware-scanned.
 
 ---
 
 ### [hawkin](https://github.com/BhagattJii/hawkin) — AI-powered search engine
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green.svg)](LICENSE)
 
-Privacy-first AI search engine inspired by Morphic. Self-hosted **SearXNG** for web-wide fetching, **OpenRouter free models** for AI answers with cited sources. Zero logs, zero tracking, zero cookies. Deployable on Render (SearXNG) + Vercel (UI).
-
-| Component | Tech |
-|-----------|------|
-| Search backend | SearXNG (self-hosted on Render) |
-| AI answers | OpenRouter free models |
-| Frontend | Next.js + TypeScript (Vercel) |
-| Database | Drizzle ORM |
-
-**Stack:** TypeScript · Next.js · SearXNG · OpenRouter · Drizzle · Vercel · Render
+Ask a question, get an AI-generated answer with cited sources. Private by default — no account, no tracking, no cookies, no logs. Free forever. Self-hostable if you want full control.
 
 ---
 
-## 🛠 Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | TypeScript · Next.js (App Router) · React · Tailwind CSS |
-| **Backend / Infra** | Cloudflare Workers · D1 · R2 · KV · Wrangler · SearXNG · Render · Vercel |
-| **Mobile / Android** | Kotlin · Jetpack Compose · Gradle |
-| **AI / Search** | OpenRouter · SearXNG · Drizzle ORM |
-| **Tooling** | Git · GitHub Actions · Wrangler · Docker · pnpm · bun |
-
----
-
-## 📫 Contact
+## Contact
 
 | Platform | Link |
 |----------|------|
@@ -77,5 +47,5 @@ Privacy-first AI search engine inspired by Morphic. Self-hosted **SearXNG** for 
 ---
 
 <div align="center">
-  <sub>Built with care by <a href="https://github.com/BhagattJii">bhagat jii</a></sub>
+  <sub>Built by <a href="https://github.com/BhagattJii">bhagat jii</a></sub>
 </div>
