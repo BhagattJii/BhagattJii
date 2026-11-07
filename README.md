@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BhagattJii/BhagattJii/main/banner.svg" width="100%" alt="bhagat jii — Full-stack Engineer">
+<img src="https://raw.githubusercontent.com/BhagattJii/BhagattJii/main/banner.jpg" width="100%" alt="Developer workspace">
 
 <br>
 
@@ -9,9 +9,9 @@
 <a href="mailto:meowboxteam@gmail.com"><img src="https://img.shields.io/badge/Email-meowboxteam%40gmail.com-3DDC84?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://meowbox.dpdns.org"><img src="https://img.shields.io/badge/MeowBox-Live-4c9aff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="MeowBox Live"></a>
 
-<br><br>
+### bhagat jii — Lakshay Verma
 
-**Full-stack engineer** · Building **MeowBox** (file hosting) & **hawkin** (AI search).  
+**Full-stack engineer** · Building **MeowBox** (file hosting) & **hawkin** (AI search)  
 TypeScript, Next.js, Kotlin.
 
 </div>
@@ -47,5 +47,7 @@ Ask a question, get an AI-generated answer with cited sources. Private by defaul
 ---
 
 <div align="center">
-  <sub>Built by <a href="https://github.com/BhagattJii">bhagat jii</a></sub>
+
+<sub>Workspace photo: <a href="https://www.pexels.com/photo/9553905/">Pexels</a> · Built by <a href="https://github.com/BhagattJii">bhagat jii</a></sub>
+
 </div>
