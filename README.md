@@ -11,7 +11,7 @@
 
 ### bhagat jii — Lakshay Verma
 
-**Full-stack engineer** · Building **MeowBox** (file hosting) & **hawkin** (AI search)  
+**Full-stack engineer** · Building **MeowBox** (file hosting) & **askwild** (AI search)  
 TypeScript, Next.js, Kotlin.
 
 </div>
@@ -28,10 +28,18 @@ Free, ad-free file hosting. Upload a file (up to 25 MB), get a direct link that 
 
 ---
 
-### [hawkin](https://github.com/BhagattJii/hawkin) — AI-powered search engine
+### [askwild](https://github.com/BhagattJii/askwild) — AI-powered search engine
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green.svg)](LICENSE)
 
 Ask a question, get an AI-generated answer with cited sources. Private by default — no account, no tracking, no cookies, no logs. Free forever. Self-hostable if you want full control.
+
+---
+
+## GitHub metrics
+
+<img src="https://raw.githubusercontent.com/BhagattJii/BhagattJii/main/metrics.svg" width="440" alt="GitHub metrics dashboard">
+
+<sub>Generated daily by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
 
 ---
 

@@ -21,8 +21,7 @@ jobs:
           filename: metrics.svg
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          base_hireable: no
-          config_order: base.header, base.activity+base.community+base.repositories, languages, isocalendar, topics, notable, habits, achievements, repositories, followup, stars, introduction
+          config_order: base.header, base.activity+base.community, languages, isocalendar, licenses, repositories, followup, introduction
           output_action: commit
           committer_branch: main
           committer_message: "chore: refresh metrics dashboard"
@@ -31,7 +30,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 2
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: no
           plugin_languages_ignored: html, css, tex, dockerfile, makefile, shell
@@ -40,42 +39,20 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Starred topics
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 0
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: owner
-          plugin_notable_types: commit, pull_request, issue
-          plugin_notable_indepth: no
-
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 400
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 20
+          # Repository licenses
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+          plugin_licenses_legal: no
 
           # Featured repositories
           plugin_repositories: yes
-          plugin_repositories_featured: meowbox, hawkin, BJ-Studio
+          plugin_repositories_featured: meowbox, askwild, BJ-Studio
           plugin_repositories_forks: no
 
           # Follow-up of issues and pull requests
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_followup_indepth: no
-
-          # Recently starred
-          plugin_stars: yes
-          plugin_stars_limit: 4
 
           # Introduction
           plugin_introduction: yes
@@ -88,4 +65,3 @@ jobs:
             svg { background: transparent !important; }
             .row { gap: 8px; }
             .calendar { border-radius: 6px; overflow: hidden; }
-            .achievement { border: 1px solid #21262d; border-radius: 6px; }
