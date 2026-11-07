@@ -21,6 +21,8 @@ jobs:
           filename: metrics.svg
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          base_hireable: no
+          commits_authoring: BhagattJii, 344557096+BhagattJii@users.noreply.github.com
           config_order: base.header, base.activity+base.community, languages, calendar, isocalendar, repositories, followup, introduction
           output_action: commit
           committer_branch: main
